@@ -1,0 +1,108 @@
+/* CSS Styles for Cody Smith's Portfolio */
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    color: #1f2937;
+    background-color: #f8fafc;
+    font-family: Inter, system-ui, sans-serif;
+    line-height: 1.5;
+}
+a {
+    color: inherit;
+}
+
+/* Site Navigation */
+
+.site-header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+
+    background-color: #0f172a;
+    border-bottom: 3px solid #38bdf8;
+    box-shadow: 0 4px 12px rgb(15 23 42 / 15%)
+}
+
+.nav-container {
+    width: min(1120px, calc(100% - 2rem));
+    min-height: 72px;
+    margin-inline: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+.site-logo {
+    color: #ffffff;
+    font-size: 1.2rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+    .site-logo:hover {
+        color: #7dd3fc;
+    }
+.nav-list {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+    .nav-list a {
+        display: block;
+        padding: 0.65rem 0.8rem;
+
+        color: #e2e8f0;
+        border-radius: 0.4rem;
+        font-size: 0.95rem;
+        font-weight: 600;
+        text-decoration: none;
+
+        transition:
+            color 150ms ease,
+            background-color 150ms ease;
+    }
+
+    .nav-list a:hover {
+        color: #ffffff;
+        background-color: #1e293b;
+    }
+
+    .nav-list a[aria-current="page"] {
+        color: #0f172a;
+        background-color: #7dd3fc;
+    }
+
+    .nav-list a:focus-visible,
+    .site-logo:focus-visible {
+        outline: 3px solid #fbbf24;
+        outline-offset: 3px;
+    }
+.page-content {
+    width: min(960px, calc(100% - 2rem));
+    margin-inline: auto;
+    padding-block: 4rem;
+}
+
+    .page-content h1 {
+        margin-top: 0;
+        color: #0f172a;
+        font-size: clamp(2rem, 5vw, 3.5rem);
+        line-height: 1.15;
+    }
