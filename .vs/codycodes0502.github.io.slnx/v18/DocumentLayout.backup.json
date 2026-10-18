@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Dalej\\Desktop\\sCHOOL\\CS-499\\github.io\\codycodes0502.github.io\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dalej\\Desktop\\sCHOOL\\CS-499\\github.io\\codycodes0502.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dalej\\Desktop\\sCHOOL\\CS-499\\github.io\\codycodes0502.github.io\\code-review.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:code-review.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -23,25 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Dalej\\Desktop\\sCHOOL\\CS-499\\github.io\\codycodes0502.github.io\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\Dalej\\Desktop\\sCHOOL\\CS-499\\github.io\\codycodes0502.github.io\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-17T20:53:01.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "code-review.html",
               "DocumentMoniker": "C:\\Users\\Dalej\\Desktop\\sCHOOL\\CS-499\\github.io\\codycodes0502.github.io\\code-review.html",
               "RelativeDocumentMoniker": "code-review.html",
               "ToolTip": "C:\\Users\\Dalej\\Desktop\\sCHOOL\\CS-499\\github.io\\codycodes0502.github.io\\code-review.html",
               "RelativeToolTip": "code-review.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-10-17T20:42:38.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\Users\\Dalej\\Desktop\\sCHOOL\\CS-499\\github.io\\codycodes0502.github.io\\assets\\css\\styles.css",
               "RelativeDocumentMoniker": "assets\\css\\styles.css",
               "ToolTip": "C:\\Users\\Dalej\\Desktop\\sCHOOL\\CS-499\\github.io\\codycodes0502.github.io\\assets\\css\\styles.css",
               "RelativeToolTip": "assets\\css\\styles.css",
-              "ViewState": "AgIAAP4AAAAAAAAAAAAkwFcBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAIwAAAAAAAAAAAArwJ4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-10-17T20:25:03.108Z",
               "EditorCaption": ""
